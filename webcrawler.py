@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 
+# Here is the change I made
 # from urllib.request import Request
 
 seed_url = "https://www8.gsb.columbia.edu"
